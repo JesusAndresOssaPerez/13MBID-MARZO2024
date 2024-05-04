@@ -1,0 +1,5 @@
+outs:
+- md5: 1f45f6bf6e8eb30b9a7f203fef84baef
+  size: 2045999
+  hash: md5
+  path: resultados_spectralclustering_k4.csv

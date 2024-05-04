@@ -1,0 +1,5 @@
+outs:
+- md5: f2f68bc451a9d03e1558ca65a496ae2f
+  size: 2045999
+  hash: md5
+  path: resultados_expectationmaximization_k4.csv

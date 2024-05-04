@@ -3,3 +3,6 @@
 /resultados_kmeans_k2.csv
 /resultados_kmeans_k2n.csv
 /resultados_kmeans_k4.csv
+/resultados_expectationmaximization_k4.csv
+/resultados_spectralclustering_k4.csv
+/resultados_agglomerative_k5.csv
